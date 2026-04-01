@@ -2,8 +2,6 @@
 
 A 4-bit combinational logic circuit built entirely from discrete gate ICs. Set the correct binary code on a DIP switch — the circuit triggers an LED alarm via a transistor. No microcontroller, no code.
 
-![TinkerCAD Circuit](tinkercad.png)
-
 🔗 [View & Simulate on TinkerCAD](https://www.tinkercad.com/things/63q92yzz8nq-a-secret-code-checker) · 🎥 [Demo Video](https://drive.google.com/file/d/1YtCvv6Mga-zqozHSLAAdKCUKDyExCcgd/view?usp=drive_link)
 
 ---
